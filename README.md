@@ -1,2 +1,10 @@
 # oldPersonalWebsite
-My old website
+
+My old website that I made
+
+
+
+![mainScreen](src/imgs/mainScreen.png)
+
+
+
